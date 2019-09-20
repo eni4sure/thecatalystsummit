@@ -216,9 +216,19 @@
     text-decoration: none;
 }
 
+.speak-k2 .fa {
+    color: #2a457e;
+    font-size: 26px;
+    padding-right: 15px;
+}
+
+.speak-k2 a:hover {
+    text-decoration: none;
+}
+
 .center-mc {
     margin: auto!important;
-    max-width: 50%;
+    max-width: 25%;
 }
 
 .bk-1 img {
