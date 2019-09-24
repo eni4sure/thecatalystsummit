@@ -277,6 +277,10 @@
     padding-bottom: 40px;
 }
 
+.spon-profit span {
+    text-decoration: underline!important
+}
+
 
 /* media query starts here */
 
